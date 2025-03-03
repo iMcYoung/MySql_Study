@@ -217,3 +217,6 @@ select  * from  students where gender = '男' order by  birthday,score asc ,scor
 ```
 
 ### 3.3.5聚合查询
+```
+
+```
