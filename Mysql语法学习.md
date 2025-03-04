@@ -43,7 +43,7 @@ create table 表名 (
 ```
 
 - mysql 数据类型
-- ![image-20250226232646561](/Users/jky/Library/CloudStorage/OneDrive-Personal/LCY/Python/Mysql/image-20250226232646561.png)
+- ![image-20250226232646561](数据类型.png)
 
 - Mysql 常用数据选择
 
