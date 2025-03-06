@@ -1,5 +1,5 @@
-create database mysql_test;
-use mysql_test;
+create database classic50;
+use classic50;
 create table student (
 	s_id int,
 	s_name varchar(8),
